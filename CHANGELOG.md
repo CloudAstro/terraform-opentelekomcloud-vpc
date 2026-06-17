@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.0](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/compare/v1.1.0...v1.0.0) (2026-06-17)
+
+
+### Features
+
+* add inital vpc module ([9844a9b](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/commit/9844a9be498b4babe3602e4c5f284585749fc9dd))
+* bump tf and provider version ([6e64623](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/commit/6e646238cce4dd76501b170eda361e87918f3991))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([9844a9b](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/commit/9844a9be498b4babe3602e4c5f284585749fc9dd))
+
 ## [1.1.0](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/compare/v1.0.0...v1.1.0) (2026-06-17)
 
 
