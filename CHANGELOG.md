@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/compare/v1.0.0...v1.1.0) (2026-06-17)
+
+
+### Features
+
+* bump tf and provider version ([6e64623](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc/commit/6e646238cce4dd76501b170eda361e87918f3991))
+
 ## 1.0.0 (2025-04-29)
 
 
